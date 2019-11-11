@@ -1,11 +1,7 @@
 **Objective-C CheatSheet**
 ===================
 **still a working process ..**
- - quick code samples of almost everything I build using Objective-C
- - some edge cases solutions 
- - some UI examples
- 
- 
+
  
   - [Create side menu repo](https://github.com/ErezMizrahi/Objective-C-CheatSheet/tree/master/ObjCheatSheet/SideBurgerMenu)
   - [Get users BSSID - works on iOS 13](https://github.com/ErezMizrahi/Objective-C-CheatSheet/tree/master/ObjCheatSheet/Reachability-Constantliy%20Check%20WIFI%20Connection)
