@@ -42,7 +42,7 @@ NSString *cellId = @"reuseIdentifier";
 //}
 
 -(void)fetchMovies {
-    NSString *urlString = @"https://api.themoviedb.org/3/movie/popular?api_key=b264e8306ce2c7637df4b6d6263504c4&language=en-US&page=1";
+    NSString *urlString = @"https://api.themoviedb.org/3/movie/popular?api_key=?????&language=en-US&page=1";
     NSURL *url = [NSURL URLWithString:urlString];
     
     [[NSURLSession.sharedSession dataTaskWithURL:url completionHandler:^(NSData * _Nullable data, NSURLResponse * _Nullable response, NSError * _Nullable error) {
