@@ -16,13 +16,14 @@
 		6448F1722372B26A009534A6 /* PushNotificationTokenExample.m in Sources */ = {isa = PBXBuildFile; fileRef = 6448F1712372B26A009534A6 /* PushNotificationTokenExample.m */; };
 		6464B88A2371C33800B05934 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6464B8892371C33800B05934 /* AppDelegate.m */; };
 		6464B88D2371C33800B05934 /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6464B88C2371C33800B05934 /* SceneDelegate.m */; };
-		6464B8932371C33800B05934 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6464B8912371C33800B05934 /* Main.storyboard */; };
 		6464B8952371C33A00B05934 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6464B8942371C33A00B05934 /* Assets.xcassets */; };
-		6464B8982371C33A00B05934 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6464B8962371C33A00B05934 /* LaunchScreen.storyboard */; };
 		6464B89B2371C33A00B05934 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6464B89A2371C33A00B05934 /* main.m */; };
 		6464B8A42371C42700B05934 /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 6464B8A32371C42700B05934 /* Reachability.m */; };
 		649CA6BB2372A56300797CD6 /* ExampleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 649CA6BA2372A56300797CD6 /* ExampleViewController.m */; };
 		649CA6BF2372A78000797CD6 /* FetchSSID.m in Sources */ = {isa = PBXBuildFile; fileRef = 649CA6BE2372A78000797CD6 /* FetchSSID.m */; };
+		64D2F9A42393B9C100175480 /* TableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 64D2F9A32393B9C100175480 /* TableViewController.m */; };
+		64D2F9A62393BAD500175480 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 64D2F9A52393BAD500175480 /* Main.storyboard */; };
+		64D2F9AA2393BF3100175480 /* Movie.m in Sources */ = {isa = PBXBuildFile; fileRef = 64D2F9A92393BF3100175480 /* Movie.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,9 +44,7 @@
 		6464B8892371C33800B05934 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		6464B88B2371C33800B05934 /* SceneDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SceneDelegate.h; sourceTree = "<group>"; };
 		6464B88C2371C33800B05934 /* SceneDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SceneDelegate.m; sourceTree = "<group>"; };
-		6464B8922371C33800B05934 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		6464B8942371C33A00B05934 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		6464B8972371C33A00B05934 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6464B8992371C33A00B05934 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6464B89A2371C33A00B05934 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		6464B8A32371C42700B05934 /* Reachability.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Reachability.m; sourceTree = "<group>"; };
@@ -54,6 +53,11 @@
 		649CA6BA2372A56300797CD6 /* ExampleViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ExampleViewController.m; sourceTree = "<group>"; };
 		649CA6BD2372A78000797CD6 /* FetchSSID.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FetchSSID.h; sourceTree = "<group>"; };
 		649CA6BE2372A78000797CD6 /* FetchSSID.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FetchSSID.m; sourceTree = "<group>"; };
+		64D2F9A22393B9C100175480 /* TableViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TableViewController.h; sourceTree = "<group>"; };
+		64D2F9A32393B9C100175480 /* TableViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TableViewController.m; sourceTree = "<group>"; };
+		64D2F9A52393BAD500175480 /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		64D2F9A82393BF3100175480 /* Movie.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Movie.h; sourceTree = "<group>"; };
+		64D2F9A92393BF3100175480 /* Movie.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Movie.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -157,6 +161,19 @@
 			path = "Push Notification Token";
 			sourceTree = "<group>";
 		};
+		6448F1752372BAE5009534A6 /* AppDelegate+SenceDelegate+Assets */ = {
+			isa = PBXGroup;
+			children = (
+				6464B8882371C33800B05934 /* AppDelegate.h */,
+				6464B8892371C33800B05934 /* AppDelegate.m */,
+				6464B88B2371C33800B05934 /* SceneDelegate.h */,
+				6464B88C2371C33800B05934 /* SceneDelegate.m */,
+				6464B8942371C33A00B05934 /* Assets.xcassets */,
+				64D2F9A52393BAD500175480 /* Main.storyboard */,
+			);
+			path = "AppDelegate+SenceDelegate+Assets";
+			sourceTree = "<group>";
+		};
 		6464B87C2371C33800B05934 = {
 			isa = PBXGroup;
 			children = (
@@ -176,29 +193,24 @@
 		6464B8872371C33800B05934 /* ObjCheatSheet */ = {
 			isa = PBXGroup;
 			children = (
+				64D2F9A12393B94300175480 /* TableView */,
 				6448F1732372B873009534A6 /* Edge Cases */,
 				6448F1612372AEF7009534A6 /* SideBurgerMenu */,
-				6464B8A12371C34D00B05934 /* Reachability-Constantliy Check WIFI Connection */,
-				6464B8882371C33800B05934 /* AppDelegate.h */,
-				6464B8892371C33800B05934 /* AppDelegate.m */,
-				6464B88B2371C33800B05934 /* SceneDelegate.h */,
-				6464B88C2371C33800B05934 /* SceneDelegate.m */,
-				6464B8912371C33800B05934 /* Main.storyboard */,
-				6464B8942371C33A00B05934 /* Assets.xcassets */,
-				6464B8962371C33A00B05934 /* LaunchScreen.storyboard */,
+				6464B8A12371C34D00B05934 /* Reachability-continuously Check WIFI Connection */,
+				6448F1752372BAE5009534A6 /* AppDelegate+SenceDelegate+Assets */,
 				6464B8992371C33A00B05934 /* Info.plist */,
 				6464B89A2371C33A00B05934 /* main.m */,
 			);
 			path = ObjCheatSheet;
 			sourceTree = "<group>";
 		};
-		6464B8A12371C34D00B05934 /* Reachability-Constantliy Check WIFI Connection */ = {
+		6464B8A12371C34D00B05934 /* Reachability-continuously Check WIFI Connection */ = {
 			isa = PBXGroup;
 			children = (
 				649CA6B82372A50100797CD6 /* Reachability Implemention */,
 				6464B8A22371C3E500B05934 /* Reachability OBJC Wrapper Class */,
 			);
-			path = "Reachability-Constantliy Check WIFI Connection";
+			path = "Reachability-continuously Check WIFI Connection";
 			sourceTree = "<group>";
 		};
 		6464B8A22371C3E500B05934 /* Reachability OBJC Wrapper Class */ = {
@@ -227,6 +239,25 @@
 				6448F15C2372AB78009534A6 /* SSID */,
 			);
 			path = "get MacAddress";
+			sourceTree = "<group>";
+		};
+		64D2F9A12393B94300175480 /* TableView */ = {
+			isa = PBXGroup;
+			children = (
+				64D2F9A72393BF2000175480 /* Model */,
+				64D2F9A22393B9C100175480 /* TableViewController.h */,
+				64D2F9A32393B9C100175480 /* TableViewController.m */,
+			);
+			path = TableView;
+			sourceTree = "<group>";
+		};
+		64D2F9A72393BF2000175480 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				64D2F9A82393BF3100175480 /* Movie.h */,
+				64D2F9A92393BF3100175480 /* Movie.m */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -286,9 +317,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6464B8982371C33A00B05934 /* LaunchScreen.storyboard in Resources */,
+				64D2F9A62393BAD500175480 /* Main.storyboard in Resources */,
 				6464B8952371C33A00B05934 /* Assets.xcassets in Resources */,
-				6464B8932371C33800B05934 /* Main.storyboard in Resources */,
 				6448F16F2372B077009534A6 /* Menu.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -302,11 +332,13 @@
 			files = (
 				6448F1602372ABA0009534A6 /* ExampleController.m in Sources */,
 				6448F1722372B26A009534A6 /* PushNotificationTokenExample.m in Sources */,
+				64D2F9AA2393BF3100175480 /* Movie.m in Sources */,
 				649CA6BF2372A78000797CD6 /* FetchSSID.m in Sources */,
 				6448F16D2372B01E009534A6 /* RootController.m in Sources */,
 				6464B88A2371C33800B05934 /* AppDelegate.m in Sources */,
 				6448F15B2372AAFC009534A6 /* LocationHandler.m in Sources */,
 				6448F1642372AF0A009534A6 /* SlideInTransition.m in Sources */,
+				64D2F9A42393B9C100175480 /* TableViewController.m in Sources */,
 				6464B89B2371C33A00B05934 /* main.m in Sources */,
 				649CA6BB2372A56300797CD6 /* ExampleViewController.m in Sources */,
 				6464B88D2371C33800B05934 /* SceneDelegate.m in Sources */,
@@ -316,25 +348,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXVariantGroup section */
-		6464B8912371C33800B05934 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				6464B8922371C33800B05934 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		6464B8962371C33A00B05934 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				6464B8972371C33A00B05934 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		6464B89C2371C33A00B05934 /* Debug */ = {

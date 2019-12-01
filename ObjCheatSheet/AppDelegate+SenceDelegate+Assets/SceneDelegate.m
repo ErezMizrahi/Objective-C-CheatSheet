@@ -1,4 +1,5 @@
 #import "SceneDelegate.h"
+#import "TableViewController.h"
 
 @interface SceneDelegate ()
 
@@ -11,6 +12,9 @@
     // Use this method to optionally configure and attach the UIWindow `window` to the provided UIWindowScene `scene`.
     // If using a storyboard, the `window` property will automatically be initialized and attached to the scene.
     // This delegate does not imply the connecting scene or session are new (see `application:configurationForConnectingSceneSession` instead).
+//    self.window = UIWindow.new;
+//    [_window makeKeyAndVisible];
+    self.window.rootViewController = [[UINavigationController alloc] initWithRootViewController:TableViewController.new];
 }
 
 
